@@ -2,4 +2,18 @@
 
 .header{
     font-size: 30px;
+    margin: 20px;
+}
+
+.img-container{
+    display: flex;
+}
+
+.img{
+    height: 100px;
+    width: auto;
+}
+
+.text{
+    text-align: center;
 }
