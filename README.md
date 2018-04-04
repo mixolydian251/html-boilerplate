@@ -10,9 +10,13 @@ This skeleton project provides a starting point for a brand new HTML & CSS proje
 
 Navigate to the directory you wish to start a new project in, then run the following lines of code, individually, in the terminal.
 
-Clone the repository
+Clone the repository ( default name html-boilerplate )
 
     git clone https://github.com/mixolydian251/html-boilerplate.git
+    
+..Or name it whaterver you want!
+
+    git clone https://github.com/mixolydian251/html-boilerplate.git project-name-here   
 
 Install dependencies
 
